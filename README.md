@@ -69,5 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Important aclarations of the project:
+### Important project clarifications:
 - El proyecto no puede reproducir el sonido del 'beep' al llegar a 00:00 el temporizador,intente muchas cosas como convertir el audio .mp3 a .ogg,tambien intente descargar otro tipo de sonido para ver si asi cambiaba algo,intente cambiar algo de la estructura del audio en el archivo App.js,pero nada me dio el resultado que esperaba...es lo unico que no funciona en el proyecto,ya que los botones andan bien,solo el 'beep' del temporizador no funciona...me disculpo por este inconveniente,a pesar de que lo intente todo y ya no tengo mas tiempo,les entrego el proyecto tal como esta.
