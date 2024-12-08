@@ -71,3 +71,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Important project clarifications:
 - El proyecto no puede reproducir el sonido del 'beep' al llegar a 00:00 el temporizador,intente muchas cosas como convertir el audio .mp3 a .ogg,tambien intente descargar otro tipo de sonido para ver si asi cambiaba algo,intente cambiar algo de la estructura del audio en el archivo App.js,pero nada me dio el resultado que esperaba...es lo unico que no funciona en el proyecto,ya que los botones andan bien,solo el 'beep' del temporizador no funciona...me disculpo por este inconveniente,a pesar de que lo intente todo y ya no tengo mas tiempo,les entrego el proyecto tal como esta.
+
+- El proyecto no puede verse directamente con la URL que tengo en el homepage del archivo package.json,he intentado todo y nada pude hacer para que esto se resolviera,asi que les dejo unos pasos que pueden seguir para ver mi proyecto de manera local como yo lo veo:
+  1= Clona el repositorio:
+   git clone https://github.com/wolfoff718/clock-25-5.project.official.git
+   
+  2= Entra al directorio del proyecto:
+   cd clock-25-5.project.official
+   
+  3= Instala las dependencias:
+   npm install
+
+  4= Corre el proyecto:
+   npm start
+
+  Esto abrirá la aplicación en http://localhost:3000 en su navegador,me disculpo nuevamente por tantos inconvenientes con este proyecto,no esperaba que esto sucediera.
+
+- Intente ver que pasaba si ponia lo que tengo en el homepage del archivo package.json,y me aparece la pagina de bienvenida predeterminada de Create React App,pero al clickear en eso que aparece debajo del npm start,me aparece el sitio del proyecto...no entiendo porque a pesar de haber seguido todos los pasos para desplegar correctamente mi proyecto a Github no pude hacer que se viera como en los anteriores proyectos si pude hacer.
+
